@@ -1,16 +1,12 @@
 # flutter_qa_template
 
-A new Flutter project.
+Basic Flutter tests 
 
-## Getting Started
+## Types of testing:
 
-This project is a starting point for a Flutter application.
+- Unit testing with provider
+- Widget testing
+- App UI testing (integration testing)
 
-A few resources to get you started if this is your first Flutter project:
+- [Codelab: How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
